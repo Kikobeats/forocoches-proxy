@@ -5,7 +5,7 @@ const morgan = require('morgan')
 const proxy = require('..')
 
 const CONST = {
-  PORT: process.env.APP_PORT || 1337,
+  PORT: process.env.PORT || 1337,
   IS_PRODUCTION: process.env.NODE_ENV === 'production'
 }
 
