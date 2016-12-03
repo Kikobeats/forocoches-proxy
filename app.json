@@ -1,0 +1,7 @@
+{
+  "name": "forocoches-proxy",
+  "description": "A proxy for access to forocoches site.",
+  "repository": "https://github.com/Kikobeats/forocoches-proxy",
+  "logo": "https://i.imgur.com/cuobYi7.png",
+  "keywords": ["node", "express", "static", "forocoches", "proxy"]
+}

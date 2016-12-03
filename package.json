@@ -1,0 +1,44 @@
+{
+  "name": "forocoches-proxy",
+  "description": "A proxy for access to forocoches site.",
+  "homepage": "https://github.com/Kikobeats/forocoches-proxy",
+  "version": "0.0.0",
+  "main": "index.js",
+  "author": {
+    "email": "josefrancisco.verdu@gmail.com",
+    "name": "Kiko Beats",
+    "url": "https://github.com/Kikobeats"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kikobeats/forocoches-proxy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Kikobeats/forocoches-proxy/issues"
+  },
+  "keywords": [
+    "forocoches",
+    "proxy"
+  ],
+  "dependencies": {
+    "express": "~4.14.0",
+    "iconv": "~2.2.1",
+    "morgan": "~1.7.0",
+    "simple-get": "~2.3.0"
+  },
+  "devDependencies": {
+    "standard": "latest",
+    "standard-markdown": "latest"
+  },
+  "engines": {
+    "node": ">= 4"
+  },
+  "files": [
+    "bin",
+    "index.js"
+  ],
+  "scripts": {
+    "start": "NODE_ENV=production node bin/server"
+  },
+  "license": "MIT"
+}
