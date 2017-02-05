@@ -23,7 +23,7 @@
   "dependencies": {
     "express": "~5.0.0-alpha.3",
     "iconv": "~2.2.1",
-    "morgan": "~1.7.0",
+    "morgan": "~1.8.0",
     "simple-get": "~2.3.0"
   },
   "devDependencies": {
