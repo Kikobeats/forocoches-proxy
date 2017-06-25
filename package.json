@@ -22,7 +22,7 @@
   ],
   "dependencies": {
     "express": "~5.0.0-alpha.3",
-    "iconv": "~2.2.1",
+    "iconv": "~2.3.0",
     "morgan": "~1.8.1",
     "simple-get": "~2.4.0"
   },
