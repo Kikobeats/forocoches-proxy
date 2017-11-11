@@ -1,5 +1,7 @@
 # forocoches-proxy
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Kikobeats/forocoches-proxy.svg)](https://greenkeeper.io/)
+
 ![Last version](https://img.shields.io/github/tag/Kikobeats/forocoches-proxy.svg?style=flat-square)
 [![Dependency status](https://img.shields.io/david/Kikobeats/forocoches-proxy.svg?style=flat-square)](https://david-dm.org/Kikobeats/forocoches-proxy)
 [![Dev Dependencies Status](https://img.shields.io/david/dev/Kikobeats/forocoches-proxy.svg?style=flat-square)](https://david-dm.org/Kikobeats/forocoches-proxy#info=devDependencies)
